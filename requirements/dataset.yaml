@@ -1,0 +1,4 @@
+train: /content/dataset/train
+val: /content/dataset/test
+nc: 3  # Toplam sınıf sayısı
+names: ['empty', 'cross', 'line']  # Sınıf isimleri
